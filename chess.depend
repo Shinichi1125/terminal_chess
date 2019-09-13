@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1532036359 source:c:\programming\personal\c\chess\boardcontrol.c
+	"BoardControl.h"
+	"Pieces.h"
+	<stdio.h>
+
+1532036426 c:\programming\personal\c\chess\boardcontrol.h
+	<ctype.h>
+	<stdbool.h>
+
+1532036520 c:\programming\personal\c\chess\pieces.h
+	"BoardControl.h"
+	<stdbool.h>
+	<ctype.h>
+
+1532036059 source:c:\programming\personal\c\chess\main.c
+	"BoardControl.h"
+	"Pieces.h"
+	<stdio.h>
+
+1532036478 source:c:\programming\personal\c\chess\pieces.c
+	"Pieces.h"
+	<stdio.h>
+
